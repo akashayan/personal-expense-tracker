@@ -4,6 +4,36 @@ A command-line expense tracking application built in Python as a Simplilearn cou
 
 ---
 
+## Table of Contents
+
+- [Demo](#demo)
+- [Prerequisites](#prerequisites)
+- [Project Setup](#project-setup)
+- [Running the Application](#running-the-application)
+- [Menu Options](#menu-options)
+- [Data Persistence](#data-persistence)
+- [Project Structure](#project-structure)
+- [Running Tests](#running-tests)
+- [Loading Sample Data](#loading-sample-data)
+
+---
+
+## Demo
+
+**Add expense (Option 1) & View expenses (Option 2)**
+![Add and View Expenses](screenshots/Option-1-2.png)
+
+**Track budget (Option 3)**
+![Track Budget](screenshots/Option-3.png)
+
+**Save expenses (Option 4) & Exit (Option 5)**
+![Save and Exit](screenshots/Option-4-5.png)
+
+**Reload expenses on startup**
+![Reload Expenses](screenshots/Reload_expenses.png)
+
+---
+
 ## Prerequisites
 
 - Python 3.8 or higher
